@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+border: 2px solid rgb(206, 206, 206);
+}
+header{
+    margin-top: 20px;
+}
+header h1{
+    text-align: center;
+    color: rgb(76, 142, 187);
+}
+main div div img {
+    width: 100%;
+    width: 100%;
+}
+.input-btn{
+    border: 0;
+    background-color: rgb(211, 211, 211);
+    border-radius: 2px;
+    padding: 2px;
+    text-align: center;
+}
+#form-part{
+    background-color: whitesmoke;
+padding-top: 20px;
+}
+label{
+    width: 100px;
+    display: inline-block;
+}
+#error-signal{
+    display: none;
+    color: red;
+}
